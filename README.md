@@ -1,6 +1,6 @@
 
 
-<p align="center">Hey there, I am Ritwik Sharma, I pretend to be a developer by copying snippets from stackoverflow but I end up doing it on my own. I'm a 2nd year CSE undergrad and a full-stack dev in the making and I do a bit of app development side by side</p>
+<p align="center">Hey there 👋, I am <strong>Ritwik Sharma</strong>, I pretend to be a developer by copying snippets from stackoverflow but I end up doing it on my own. I'm a 2nd year CSE undergrad and a full-stack dev in the making and I do a bit of app development side by side</p>
 
 - 🔭 I’m currently working on **MERN Stack**
 
