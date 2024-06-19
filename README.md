@@ -3,8 +3,9 @@
 </p>
 
 ### Tech Stack
-- **Frontend**: HTML, CSS, TailwindCSS, ReactJS, ViteJS
-- **Backend**: Node.js, Express, Dart, C++, Flask
+- **Frontend**: HTML, CSS, TailwindCSS, ReactJS, ViteJS, NextJs
+- **Backend**: NodeJS, ExpressJS, Flask
+- **Programming Languages**: C,C++,Python, JavaScript, Dart
 - **App Development**: Flutter, React-Native 
 - **Cloud and Databases:** Firebase, Supabase, Appwrite, MongoDB, PostegreSQL, MySQL
 
