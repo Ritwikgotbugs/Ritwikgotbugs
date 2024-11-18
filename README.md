@@ -11,5 +11,8 @@
 
 <img src="https://img.shields.io/badge/Flutter-212121?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" align='center' /> <img src="https://img.shields.io/badge/React_Native-212121?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" align='center' />
 
+<img src="https://img.shields.io/badge/AWS-212121?style=for-the-badge&logo=amazon&logoColor=FF9900" alt="AWS" align='center' /> <img src="https://img.shields.io/badge/Docker-212121?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker" align='center' />
+
+
 ## 🌐 Get in Touch
 Feel free to explore my repositories to see my work in action. If you have any questions, collaboration ideas,  don't hesitate to reach out to me at shritwik04@gmail.com, or connect with me on [LinkedIn](https://linkedin.com/in/ritwik-sharma-8714b4221).
